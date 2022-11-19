@@ -43,6 +43,3 @@ Note: If you don't want to download VS code, you can use the web version here: <
 
 ## Online IDE: 
 <a href="codepen.io">CodePen</a>
-
-
-If you simply want to view the end result of what i worked on, you can scroll up to the beginning of the read me or access it <a href="https://mknyambura.github.io/Portfolio-Project/">here</a>
