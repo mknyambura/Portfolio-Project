@@ -1,6 +1,7 @@
 ## Portfolio Project
 
-Link to this portfolio project: <a href="https://mknyambura.github.io/Portfolio-Project/">Project</a>
+Link to this portfolio project: <a href="https://mknyambura.github.io/Portfolio-Project/">Click here</a>
+
 This is a Phase-0 Project of the <a href="https://moringaschool.com/courses/software-engineering-course-online/">Moringa Software Engineering Program</a>.
 
 ## Project Description
@@ -18,20 +19,25 @@ As you make changes to your work locally, it's adivasable to commit and push in 
 - HTML: HyperText Markup Language is the standard markup language for documents designed to be displayed in a web browser. HTML gives a web page its structure.
 - CSS: Cascading Style Sheet is the language we use to style an HTML document. For example:
 <code> 
+
 body {
     background: lightblue;
 }
+
 
 h1 {
     color: white;
     text-align: center;
 }
 
+
 p {
     font-family: 'Poppins';
     font-size: 20px;
 }
+
 </code>
+
 The lines of code above in css dictate that the background color of the whole page will be light-blue. Of the 6 heading sizes, texts under <code>h1</code> will be white in color and they'll be centrally aligned. Pagaragrp texts defined by the element <code>p</code> have a font of Poppins' with their font-size (size of the text) to be 20px
 - JavaScript: JavaScript is the muscle of the webpage. It's reason behind most of the functionality of a webpage.
 - VS Code: An editor used to work on your HTML, CSS, JavaScript documents. HTML documents are under the .html extension, CSS under .css extension and JavaScript under the .js extension. However, some of the JavaScript lines of code can be written in the html document under the <script></script> element.
