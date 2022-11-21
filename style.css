@@ -168,15 +168,27 @@ header #toggle::after {
     text-transform: uppercase;
     margin: 10px;
 }
+#navigation .dropdown {
+    display: none;
+    font-size: 10px;
+}
 #navigation ul li a:hover {
     text-decoration: none;
     text-align: center;
-    background: #fff;
     color: #000;
+    background: #fff;
     font-size: 1.2em;
     font-weight: 600;
     padding: 5px 25px;
     transition: 0.6s ease-in-out;
+}
+#navigation ul li:hover .dropdown{
+    display: block;
+    position: absolute;
+    top: 80px;
+    right: 100px;
+    font-size: 1em;
+    transition: 0.6s;
 }
 
 
@@ -194,13 +206,6 @@ header #toggle::after {
     .banner .content p,
     .banner .content a {
         font-size: 1em;
-    }
-    .banner.active {
-        transform: translate(-250px);
-    }
-    
-    #navigation {
-        width: 250px;
     }
     #navigation ul li a {
         font-size: 1.25em;
